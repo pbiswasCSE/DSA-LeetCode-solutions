@@ -1,3 +1,5 @@
+//solution By Mapping 
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
